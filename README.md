@@ -2,9 +2,9 @@
 
 ![Desktop design](/design/desktop-design.png)
 
-## [Live]() | [Solution]() | [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+## [Live](https://tomasmansilla.github.io/qr-code-component-main/) | [Solution](https://www.frontendmentor.io/solutions/qr-code-component-jlXuiePUON) | [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -43,6 +43,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+- Flex
 
 ### What I learned
 
