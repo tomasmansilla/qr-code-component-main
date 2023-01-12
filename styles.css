@@ -2,7 +2,6 @@
 
 :root {
   box-sizing: border-box;
-  font-size: 15px;
 
   --white-color: hsl(0, 0%, 100%);
   --light-gray-color: hsl(212, 45%, 89%);
@@ -21,7 +20,7 @@
 body {
   font-family: "Outfit", sans-serif;
   background-color: var(--light-gray-color);
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,6 +28,7 @@ body {
 
 .media {
   width: 300px;
+  margin: 1em;
   padding: 1em;
   background-color: var(--white-color);
   border-radius: 1em;
